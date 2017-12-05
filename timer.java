@@ -1,4 +1,4 @@
- /*
+
         new CountDownTimer(30000, 1000) {
 
             public void onTick(long millisUntilFinished) {
@@ -13,4 +13,4 @@
                 openMainActivity.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
                 startActivity(openMainActivity);
             }
-        }.start();*/
+        }.start();
